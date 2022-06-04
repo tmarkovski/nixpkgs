@@ -10561,6 +10561,8 @@ in {
 
   trio-asyncio = callPackage ../development/python-modules/trio-asyncio { };
 
+  trio-websocket = callPackage ../development/python-modules/trio-websocket { };
+
   trueskill = callPackage ../development/python-modules/trueskill { };
 
   trustme = callPackage ../development/python-modules/trustme { };
