@@ -5886,8 +5886,6 @@ in {
 
   nsapi = callPackage ../development/python-modules/nsapi { };
 
-  ntfy-webpush = callPackage ../tools/misc/ntfy-webpush { };
-
   ntc-templates = callPackage ../development/python-modules/ntc-templates { };
 
   ntlm-auth = callPackage ../development/python-modules/ntlm-auth { };
